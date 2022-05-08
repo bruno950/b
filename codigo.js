@@ -71,7 +71,7 @@ function cadastrar() {
   valores = JSON.stringify(valores);
  
   localStorage.setItem(chaveProdutos, valores);
-  location.href="index.html"
+  location.href="cadeiras.nefly.app"
 }
 
 // cargaInicial() // carrega valores iniciais no localstorage
